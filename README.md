@@ -1,7 +1,7 @@
 - 👋 Hi, I’m K. R. Jaybhaye 
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on project using TensorFlow 
+- 💞️ I’m looking to collaborate on project using TensorFlow, Pytorch, Scikit-learn 
 - 📫 How to reach me - email: krushnajaybhaye0011@gmail.com
 
 <!---
